@@ -32,18 +32,11 @@ body {
     padding: 0;
     font-family: sans-serif;
     /*background-color: lightgrey;*/
-    background: url(./backgrounds/2.jpg)  no-repeat center 0px;
+    background: url(./backgrounds/2.jpg)  no-repeat center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
-
-
-
-    /*background-position: center 0;*/
-    /*background-repeat: no-repeat;*/
-    /*background-attachment: fixed;*/
-    /*-webkit-background-size: cover;*/
-    /*-o-background-size: cover;*/
-    /*-moz-background-size: cover;*/
-    /*-ms-background-size: cover*/
 }
 
 /*img.background {*/
