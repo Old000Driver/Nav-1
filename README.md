@@ -7,6 +7,7 @@ parcel src/index.html
 
 # build
 ```
+parcel version //parcel@1.9.7
 yarn build
 ```
 
