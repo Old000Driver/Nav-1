@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+    <meta http-equiv="X-UA-Compatible" content="ie-edge">
+    <title>静静 - 前端导航网站</title>
+    <style data-parcel-key="bccd69d8c8b8c1cea8db05157959df28">
+        .icon {
+            width: 1em;
+            height: 1em;
+            vertical-align: -0.15em;
+            fill: currentColor;
+            overflow: hidden;
+        }
+    </style>
+    <link rel="stylesheet" href="76d74868bf480873460adb8aad1df89c">
+</head>
+
+<body class="body">
+<header class="globalHeader">
+    <form class="searchForm" method="GET" action="https://www.baidu.com/s">
+        <input name="wd" type="text">
+        <button type="submit">搜索</button>
+    </form>
+</header>
+<main class="globalMain">
+    <ul class="siteList">
+        <li class="last">
+            <div class="addButton">
+                <div class="icon-wrapper">
+                    <svg class="icon">
+                        <use xlink:href="#icon-add"></use>
+                    </svg>
+                </div>
+                <div class="text">新增网站</div>
+            </div>
+        </li>
+    </ul>
+</main>
+<script src="bf9f354ff6e826c9c5e8ee440cf9dc57"></script>
+<script src="38309e237759dcc643c123d4a1479050"></script>
+<script src="67e2e1d839de85b19f58d77aecf7b303"></script>
+</body>
+</html>
