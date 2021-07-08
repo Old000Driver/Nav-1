@@ -80,7 +80,7 @@ $(document).on('keyup', (e) => {
 //     let index =parseInt(Math.random()*(imgArr.length))
 //     let currentImage=imgArr[index]
 //     console.log(currentImage)
-//     // $('body').css({"background-image":"url('backgrounds/3.jpg')"});
-//     // document.getElementById("BackgroundArea").style.backgroundImage="url("+currentImage+")";
+//     $('body').css({"background-image":"url('backgrounds/3.jpg')"});
+//     document.getElementById("BackgroundArea").style.backgroundImage="url("+currentImage+")";
 // }
 // changeBackground()
